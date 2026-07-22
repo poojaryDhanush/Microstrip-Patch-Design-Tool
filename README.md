@@ -160,6 +160,3 @@ NMAM Institute of Technology (NMAMIT), Nitte
 
 ---
 
-## 📄 License
-
-This project is intended for educational, research, and engineering purposes.
